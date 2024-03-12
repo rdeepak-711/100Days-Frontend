@@ -1,3 +1,10 @@
+# Day 3 - 12th March 2024
+Today's Progress: Started working on [Basic JavaScript course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) created by freeCodeCamp.  Currently 71% complete with the course.
+
+Thoughts: I didn't work for a lot of time. Will need to improve my work timings.
+
+Link to work: My profile - [Deepak R](https://www.freecodecamp.org/deepakr)
+
 # Day 2 - 11th March 2024
 Today's Progress: Started working on [Basic JavaScript course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) created by freeCodeCamp.  Currently 66% complete with the course.
 
